@@ -26,4 +26,9 @@ Seda tehakse sageli seadme probleemi parandamiseks, kuid seda võib teha ka sead
 5. -o ro tähendab read only, mis laseb failisüsteemi ainult lugeda ja mitte muuta ega kustutada
 -t auto tähendab et süsteem proovib automaatselt tuvastada failisüsteemi tüübi
 
+<br>
+6.
+Leidke mount-käsu väljundist üles, mis väärtusega asendas Ubuntu auto-parameetri.
+ext4
 
+<br>
